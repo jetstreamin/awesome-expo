@@ -1,2 +1,4 @@
-# awesome-expo
-A repository for all things awesome that I happen to come across learning expo.io.  
+# Awesome Expo
+
+### Tutorials
+https://blog.expo.io/how-to-build-cloud-powered-mobile-apps-with-expo-aws-amplify-2fddc898f9a2
